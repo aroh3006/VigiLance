@@ -1,5 +1,12 @@
 # VigiLance
-Windows-based intrusion detection system with encrypted forensic logging and real-time Telegram alerts for WhatsApp Desktop.
+![Python](https://img.shields.io/badge/Python-3.12-blue)
+![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey)
+![Security](https://img.shields.io/badge/Focus-Cybersecurity-red)
+![License](https://img.shields.io/badge/License-MIT-green)
+
+Windows-based Intrusion Detection System for WhatsApp Desktop.
+
+VigiLance monitors unauthorized access attempts, captures forensic evidence, encrypts logs, and sends real-time Telegram alerts.
 
 Author : Aroh Maurya
 
@@ -31,6 +38,16 @@ Author : Aroh Maurya
    - Password authentication  
    - Start / Stop protection  
    - View encrypted logs  
+
+## 📂 Project Structure
+
+VigiLance/
+│
+├── control_panel.py      # GUI controller
+├── guard_v6.py           # Background monitoring engine
+├── requirements.txt
+├── VigiLance.ico
+└── README.md
 
 ---
 
