@@ -39,15 +39,16 @@ Author : Aroh Maurya
    - Start / Stop protection  
    - View encrypted logs  
 
-## 📂 Project Structure
+## 📁 Project Structure
 
+```bash
 VigiLance/
-│
-├── control_panel.py      # GUI controller
-├── guard_v6.py           # Background monitoring engine
-├── requirements.txt
-├── VigiLance.ico
+├── control_panel.py     # GUI controller
+├── guard_v6.py          # Monitoring engine
+├── requirements.txt     # Dependencies
+├── VigiLance.ico        # Application icon
 └── README.md
+```
 
 ---
 
